@@ -1,2 +1,1 @@
-# trabalho_conjunto
-Exemplo de trabalho conjunto com colega.
+# Primeira alteração realizada por um colega.
